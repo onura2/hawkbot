@@ -36,4 +36,4 @@ client.on('message', msg => {
     msg.reply('yemek geldi geldi konusan domuz gordune sasırma:D');
   }
 });
-client.login('NTc3MDMzMTE3Nzg1Nzg0MzMw.XNf6gg.KkiIQcZzyVWrsNZXFTPp__BGJVE');
+client.login('');
