@@ -36,4 +36,4 @@ client.on('message', msg => {
     msg.reply('yemek geldi geldi konusan domuz gordune sasırma:D');
   }
 });
-client.login('');
+client.login(process.env.BOT_TOKEN);
